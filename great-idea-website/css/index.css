@@ -63,7 +63,15 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+
 /* Your code starts here! */
+
+header {
+    border-bottom: 2px solid gray;
+    margin: 20px;
+    padding-bottom: 50px;
+}
+
 .navigation {
     display: inline-block;
 }
@@ -71,5 +79,5 @@ h1, h2, h3, h4, h5 {
 .navigation a {
     text-decoration: none;
     color: lightgray;
-    margin: 0 30px 30px;
+    margin: 0 70px 30px;
 }
