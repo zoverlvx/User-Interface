@@ -64,7 +64,9 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-
+.navigation {
+    display: inline;
+}
 a {
     text-decoration: none;
     color: lightgray;
