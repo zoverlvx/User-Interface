@@ -72,6 +72,10 @@ header {
     padding-bottom: 50px;
 }
 
+header h1 {
+    white-space: pre-wrap;
+}
+
 .navigation {
     display: inline-block;
 }
