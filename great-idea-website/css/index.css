@@ -65,9 +65,11 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 .navigation {
-    display: inline;
+    display: inline-block;
 }
-a {
+
+.navigation a {
     text-decoration: none;
     color: lightgray;
+    margin: 0 30px 30px;
 }
