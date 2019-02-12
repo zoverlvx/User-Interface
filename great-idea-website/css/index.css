@@ -75,6 +75,7 @@ header {
 header h1 {
     white-space: pre-wrap;
     font-size: 100px;
+    display: inline-block;
 }
 
 .navigation {
