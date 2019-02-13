@@ -78,6 +78,15 @@ header h1 {
     display: inline-block;
 }
 
+button {
+    background: inherit;
+    font: inherit;
+    border: 1.5px solid black;
+    height: 35px;
+    width: 180px;
+    transition: .2s;
+}
+
 .navigation {
     display: inline-block;
 }
